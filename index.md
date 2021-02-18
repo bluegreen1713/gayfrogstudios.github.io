@@ -15,7 +15,7 @@ I am a nonbinary Ravenclaw potterhead novelist, author of the blog [QuarantineOc
 * * *
 
 ### Blog
-<iframe src="https://quarantineoccasional.com" height="100%" width="100%">Your browser does not support iFrames</iframe>
+<iframe src="https://quarantineoccasional.com" height="900px" width="1800px">Your browser does not support iFrames</iframe>
 
 * * *
 
