@@ -14,12 +14,12 @@ I am a nonbinary Ravenclaw potterhead novelist, author of the blog [QuarantineOc
 
 * * *
 
-### Blog
+## Blog
 <iframe src="https://quarantineoccasional.com" height="900px" width="1800px">Your browser does not support iFrames</iframe>
 
 * * *
 
-#### Ahh, shitposting and meme
+## Ahh, shitposting and meme
 <img src="https://github.com/bluegreen1713/bluegreen1713.github.io/blob/main/ey%20im%20respecting%20trans%20people%20here.JPG?raw=true" width="200px">
 <img src="https://github.com/bluegreen1713/bluegreen1713.github.io/blob/main/ace%20aro%20meme%20(1).png?raw=true" width="200px">
 <img src="https://github.com/bluegreen1713/bluegreen1713.github.io/blob/main/pooh_transphobia_meme.jpeg?raw=true" width="200px">
@@ -27,7 +27,7 @@ I am a nonbinary Ravenclaw potterhead novelist, author of the blog [QuarantineOc
 
 * * *
 
-### Online Safety: Please Do These to Keep Yourself Safe Online
+## Online Safety: Please Do These to Keep Yourself Safe Online
 * Use a VPN: I use ExpressVPN for it's military-grade encryption, and SurfSharkVPN for it's cheapness.
 
 * Encrypt all of your passwords: A password like Bunny123! or P@ssword! is really easy for a hacker to break. A password like "BkpkUf9gmV~ie!$<>" will take 350,000 years to break. Google Chrome and iOS both offer automatic, encrypted password-generators whenever you sign up for something. ExpressVPN as well as other privacy softwares also offer encrpted password generation.
